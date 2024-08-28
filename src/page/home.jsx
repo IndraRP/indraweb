@@ -23,9 +23,9 @@ const Home = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div>
+    <div className="">
       <nav className="bg-white shadow">
-        <div className="container px-6 py-4 mx-auto">
+        <div className="container px-16 py-4 mx-auto">
           <div className="lg:flex lg:items-center lg:justify-between">
             <div className="flex items-center justify-between">
               <a
@@ -123,6 +123,7 @@ const Home = () => {
         </div>
       </nav>
 
+<div className="px-20">
       <section id="home-section ">
         <div className="container px-6 py-6 mx-auto ">
           <div className="lg:-mx-6 lg:flex lg:items-center">
@@ -272,7 +273,7 @@ const Home = () => {
             and business planning
           </p>
 
-          <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
+          <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-2">
             <div
               className="overflow-hidden bg-cover rounded-lg cursor-pointer h-96 group"
               style={{
@@ -540,7 +541,7 @@ const Home = () => {
         </div>
     </div>
 </section>
-
+</div>
 
       <footer className="bg-gray-900">
         <div className="container px-6 py-8 mx-auto">
