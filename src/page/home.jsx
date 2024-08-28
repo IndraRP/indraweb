@@ -499,7 +499,7 @@ const Home = () => {
             >
                 <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
                     <h2 className="mt-2 mb-2 text-xl font-semibold text-gray-800 capitalize dark:text-white">
-                        Komponent StoryBook NEXT.JS
+                        Component StoryBook NEXT.JS
                     </h2>
                     <p className="mt-2 text-sm tracking-wider text-blue-800">
                     Create UI components using Atomic Design methodology and document them with Storybook, and build with TypeScript.</p>
@@ -531,7 +531,7 @@ const Home = () => {
             >
                  <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
                     <h2 className="mt-2 mb-2 text-xl font-semibold text-gray-800 capitalize dark:text-white">
-                        Komponent StoryBook NEXT.JS
+                        Personal Website
                     </h2>
                     <p className="mt-2 mb-4 text-sm tracking-wider text-blue-800">
                     Design and develop a personal website profile using React.js, Tailwind CSS and MerakiUI.</p>
