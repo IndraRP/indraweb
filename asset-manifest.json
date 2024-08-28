@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/IndraRP.github.io/indraweb/static/css/main.6f91619b.css",
-    "main.js": "/IndraRP.github.io/indraweb/static/js/main.dde9c28a.js",
-    "static/js/453.d73b0aaa.chunk.js": "/IndraRP.github.io/indraweb/static/js/453.d73b0aaa.chunk.js",
-    "static/media/uwp.JPG": "/IndraRP.github.io/indraweb/static/media/uwp.a3e375efafc2263f47b1.JPG",
-    "static/media/fotoku1.jpg": "/IndraRP.github.io/indraweb/static/media/fotoku1.278332f837596c56e809.jpg",
-    "static/media/sertif8.jpg": "/IndraRP.github.io/indraweb/static/media/sertif8.a42c9cc217baa16e27b0.jpg",
-    "static/media/machung.jpg": "/IndraRP.github.io/indraweb/static/media/machung.82b80808700ab88003e2.jpg",
-    "static/media/sertif6.png": "/IndraRP.github.io/indraweb/static/media/sertif6.d92fc2728762d39c1e8b.png",
-    "static/media/storybook.jpg": "/IndraRP.github.io/indraweb/static/media/storybook.b78b40aaf736a0f83617.jpg",
-    "static/media/sertif3.png": "/IndraRP.github.io/indraweb/static/media/sertif3.0fcb59d2fe3bf133fb6b.png",
-    "static/media/hangtuah.jpg": "/IndraRP.github.io/indraweb/static/media/hangtuah.741309a6fc4ea95f6f19.jpg",
-    "static/media/sertif5.png": "/IndraRP.github.io/indraweb/static/media/sertif5.18d3681f47239a3715df.png",
-    "static/media/sertif2.png": "/IndraRP.github.io/indraweb/static/media/sertif2.6af9cfbd299fa1440474.png",
-    "static/media/sertif1.png": "/IndraRP.github.io/indraweb/static/media/sertif1.2bd9c00056c69bfba361.png",
-    "static/media/sertif4.png": "/IndraRP.github.io/indraweb/static/media/sertif4.d83e62c30dac6e75e85b.png",
-    "static/media/CV Indra Ridho R.P.pdf": "/IndraRP.github.io/indraweb/static/media/CV Indra Ridho R.P.b1c7a1bbb372bdc1a07a.pdf",
-    "index.html": "/IndraRP.github.io/indraweb/index.html",
-    "main.6f91619b.css.map": "/IndraRP.github.io/indraweb/static/css/main.6f91619b.css.map",
-    "main.dde9c28a.js.map": "/IndraRP.github.io/indraweb/static/js/main.dde9c28a.js.map",
-    "453.d73b0aaa.chunk.js.map": "/IndraRP.github.io/indraweb/static/js/453.d73b0aaa.chunk.js.map"
+    "main.css": "/indraweb/static/css/main.6f91619b.css",
+    "main.js": "/indraweb/static/js/main.4166505e.js",
+    "static/js/453.d73b0aaa.chunk.js": "/indraweb/static/js/453.d73b0aaa.chunk.js",
+    "static/media/uwp.JPG": "/indraweb/static/media/uwp.a3e375efafc2263f47b1.JPG",
+    "static/media/fotoku1.jpg": "/indraweb/static/media/fotoku1.278332f837596c56e809.jpg",
+    "static/media/sertif8.jpg": "/indraweb/static/media/sertif8.a42c9cc217baa16e27b0.jpg",
+    "static/media/machung.jpg": "/indraweb/static/media/machung.82b80808700ab88003e2.jpg",
+    "static/media/sertif6.png": "/indraweb/static/media/sertif6.d92fc2728762d39c1e8b.png",
+    "static/media/storybook.jpg": "/indraweb/static/media/storybook.b78b40aaf736a0f83617.jpg",
+    "static/media/sertif3.png": "/indraweb/static/media/sertif3.0fcb59d2fe3bf133fb6b.png",
+    "static/media/hangtuah.jpg": "/indraweb/static/media/hangtuah.741309a6fc4ea95f6f19.jpg",
+    "static/media/sertif5.png": "/indraweb/static/media/sertif5.18d3681f47239a3715df.png",
+    "static/media/sertif2.png": "/indraweb/static/media/sertif2.6af9cfbd299fa1440474.png",
+    "static/media/sertif1.png": "/indraweb/static/media/sertif1.2bd9c00056c69bfba361.png",
+    "static/media/sertif4.png": "/indraweb/static/media/sertif4.d83e62c30dac6e75e85b.png",
+    "static/media/CV Indra Ridho R.P.pdf": "/indraweb/static/media/CV Indra Ridho R.P.b1c7a1bbb372bdc1a07a.pdf",
+    "index.html": "/indraweb/index.html",
+    "main.6f91619b.css.map": "/indraweb/static/css/main.6f91619b.css.map",
+    "main.4166505e.js.map": "/indraweb/static/js/main.4166505e.js.map",
+    "453.d73b0aaa.chunk.js.map": "/indraweb/static/js/453.d73b0aaa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f91619b.css",
-    "static/js/main.dde9c28a.js"
+    "static/js/main.4166505e.js"
   ]
 }
