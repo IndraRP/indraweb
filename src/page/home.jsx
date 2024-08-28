@@ -103,7 +103,12 @@ const Home = () => {
                 >
                   Achievment
                 </a>
-
+                <a
+                  href="#sertif-section"
+                  className="block mx-4 mt-4 text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400"
+                >
+                  Sertificate
+                </a>
                 <a
                   href="#project-section"
                   className="block mx-4 mt-4 text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400"
@@ -111,12 +116,6 @@ const Home = () => {
                 Project
                 </a>
               
-                <a
-                  href="#sertif-section"
-                  className="block mx-4 mt-4 text-gray-700 capitalize lg:mt-0 dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400"
-                >
-                  Sertificate
-                </a>
               </div>
             </div>
           </div>
