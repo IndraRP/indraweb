@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 import { TypeAnimation } from "react-type-animation";
 import Foto from "./image/fotoku1.jpg";
-import cvFile from "./image/CV Indra Ridho R.P.pdf";
+import cvFile from "./image/CV Indra Ridho Rizkian Pratama.pdf";
 
 import { teamMembers } from "./data";
 
