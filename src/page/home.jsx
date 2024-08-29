@@ -122,7 +122,7 @@ const Home = () => {
         </div>
       </nav>
 
-<div className="lg:px-20">
+<div className="lg:px-20 px-2">
       <section id="home-section ">
         <div className="container px-6 py-6 mx-auto ">
           <div className="lg:-mx-6 lg:flex lg:items-center">
