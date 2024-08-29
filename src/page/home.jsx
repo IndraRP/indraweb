@@ -490,6 +490,7 @@ const Home = () => {
         </h1>
 
         <div className="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 lg:grid-cols-2">
+
             <div
                 className="flex items-end overflow-hidden bg-cover rounded-lg h-96"
                 style={{
@@ -501,8 +502,8 @@ const Home = () => {
                     <h2 className="mt-2 mb-2 text-xl font-semibold text-gray-800 capitalize dark:text-white">
                         Component StoryBook NEXT.JS
                     </h2>
-                    <p className="mt-2 text-sm tracking-wider text-blue-800">
-                    Create UI components using Atomic Design methodology and document them with Storybook, and build with TypeScript.</p>
+                    <a href="https://github.com/IndraRP/StoryBook" className="mt-1 mb-2 text-sm tracking-wider text-blue-800">
+                    Create UI components using Atomic Design methodology and document them with Storybook, and build with TypeScript.</a>
                 </div>
             </div>
 
@@ -517,8 +518,8 @@ const Home = () => {
                     <h2 className="mt-2 mb-2 text-xl font-semibold text-gray-800 capitalize dark:text-white">
                     E-commerce franchise (FrontEnd) 
                     </h2>
-                    <p className="mt-2 text-sm tracking-wider text-blue-800">
-                    Lead the development of an easy-to-use and scalable franchise e-commerce platform built with Vite.js and Bootstrap.</p>
+                    <a href="https://github.com/IndraRP/FRIENDCHISE_TA" className="mb-2 text-sm tracking-wider text-blue-800">
+                    Lead the development of an easy-to-use and scalable franchise e-commerce platform built with Vite.js and Bootstrap.</a>
                 </div>
             </div>
 
@@ -526,17 +527,34 @@ const Home = () => {
                 className="flex items-end overflow-hidden bg-cover rounded-lg h-96"
                 style={{
                     backgroundImage:
-                        "url('https://images.unsplash.com/photo-1603380353725-f8a4d39cc41e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80')",
+                        "url('https://www.monitorteknologi.com/wp-content/uploads/2020/02/Apa-Itu-Coding-Dan-Bagaimana-Cara-Kerjanya.jpg')",
                 }}
             >
                  <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
                     <h2 className="mt-2 mb-2 text-xl font-semibold text-gray-800 capitalize dark:text-white">
                         Personal Website
                     </h2>
-                    <p className="mt-2 mb-4 text-sm tracking-wider text-blue-800">
-                    Design and develop a personal website profile using React.js, Tailwind CSS and MerakiUI.</p>
+                    <a href="https://github.com/IndraRP/indraweb" className="mt-2 mb-4 text-sm tracking-wider text-blue-800">
+                    Design and develop a personal website profile using React.js, Tailwind CSS and MerakiUI.</a>
                 </div>
             </div>
+
+            <div
+                className="flex items-end overflow-hidden bg-cover rounded-lg h-96"
+                style={{
+                    backgroundImage:
+                        "url('https://www.karier.mu/blog/wp-content/uploads/2021/12/programmin-990x500.jpg')",
+                }}
+            >
+                 <div className="w-full px-8 py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
+                    <h2 className="mt-2 mb-2 text-xl font-semibold text-gray-800 capitalize dark:text-white">
+                     External API for Admin (FrontEnd)
+                    </h2>
+                    <a href="https://github.com/IndraRP/Fullstack-Laravel-First" className="mt-2 mb-4 text-sm tracking-wider text-blue-800">
+                    Connecting Employee External API using Laravel Blade, Ajax (for connection) and Tailwind CSS</a>                </div>
+            </div>
+
+
         </div>
     </div>
 </section>
