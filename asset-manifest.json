@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/indraweb/static/css/main.2985d840.css",
-    "main.js": "/indraweb/static/js/main.a6bd6452.js",
+    "main.css": "/indraweb/static/css/main.b9cc1e98.css",
+    "main.js": "/indraweb/static/js/main.f6edf5d3.js",
     "static/js/453.d73b0aaa.chunk.js": "/indraweb/static/js/453.d73b0aaa.chunk.js",
     "static/media/uwp.JPG": "/indraweb/static/media/uwp.a3e375efafc2263f47b1.JPG",
     "static/media/fotoku1.jpg": "/indraweb/static/media/fotoku1.278332f837596c56e809.jpg",
@@ -17,12 +17,12 @@
     "static/media/sertif4.png": "/indraweb/static/media/sertif4.d83e62c30dac6e75e85b.png",
     "static/media/CV Indra Ridho Rizkian Pratama.pdf": "/indraweb/static/media/CV Indra Ridho Rizkian Pratama.dd4424590509e1377a5d.pdf",
     "index.html": "/indraweb/index.html",
-    "main.2985d840.css.map": "/indraweb/static/css/main.2985d840.css.map",
-    "main.a6bd6452.js.map": "/indraweb/static/js/main.a6bd6452.js.map",
+    "main.b9cc1e98.css.map": "/indraweb/static/css/main.b9cc1e98.css.map",
+    "main.f6edf5d3.js.map": "/indraweb/static/js/main.f6edf5d3.js.map",
     "453.d73b0aaa.chunk.js.map": "/indraweb/static/js/453.d73b0aaa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2985d840.css",
-    "static/js/main.a6bd6452.js"
+    "static/css/main.b9cc1e98.css",
+    "static/js/main.f6edf5d3.js"
   ]
 }
