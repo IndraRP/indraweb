@@ -103,7 +103,7 @@ const Home = () => {
                   : "opacity-0 -translate-x-full"
               }`}
             >
-              <div className="-mx-4 lg:flex lg:items-center">
+              <div className="-mx-4 lg:flex text-sm lg:items-center">
                 <a
                   href="#home-section"
                   className="block mx-4 text-gray-700 capitalize dark:text-gray-200 hover:text-blue-600 dark:hover:text-blue-400"
