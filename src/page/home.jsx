@@ -257,11 +257,12 @@ const Home = () => {
               master the fields of Business/Economics and Project Manager.
             </p>
 
-            <div className="grid grid-cols-2  md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 px-1 md:px-12 lg:px-20 gap-2 md:gap-3 lg:gap-4 xl:gap-5 mt-8 xl:mt-12">
+
+            <div className="grid grid-cols-2  md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-4 md:px-12 lg:px-20 gap-2 md:gap-3 lg:gap-4 xl:gap-5 mt-8 xl:mt-12">
               {teamMembers.map((member, index) => (
                 <div
                   key={index}
-                  className="bg-slate-100 flex flex-col items-center p-7 w-48 h-52 transition-colors duration-300 transform border cursor-pointer rounded-lg shadow-md hover:border-transparent group hover:bg-gray-600 dark:border-gray-700 dark:hover:border-transparent"
+                  className="bg-slate-100 flex flex-col items-center p-7 lg:w-48 lg:h-52 transition-colors duration-300 transform border cursor-pointer rounded-lg shadow-md hover:border-transparent group hover:bg-gray-600 dark:border-gray-700 dark:hover:border-transparent"
                 >
                   <img
                     className="object-cover w-20 h-20"
@@ -284,6 +285,7 @@ const Home = () => {
             </div>
           </div>
         </section>
+
 
         {/* PORTOFOLIO */}
         <section id="portofolio-section" className="bg-white dark:bg-gray-900">
