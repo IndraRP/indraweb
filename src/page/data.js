@@ -88,17 +88,28 @@ export const teamMembers = [
 ];
   
 
-// Fungsi untuk mengambil nama
-export function getNames() {
-    return teamMembers.map(member => member.name);
-}
 
-// Fungsi untuk mengambil jobdesk
-export function getJobDesk() {
-    return teamMembers.map(member => member.jobDesk);
-}
+export const data = [
+{
+    background: "https://images.unsplash.com/photo-1621111848501-8d3634f82336?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80",
+    title: "Storybook Component",
+    icon1: "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png",
+    icon2: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png",
+    icon3: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+  },
 
-// Fungsi untuk mengambil keahlian
-export function getSkills() {
-    return teamMembers.map(member => member.skills);
-}
+  {
+    background: "https://images.unsplash.com/photo-1621609764180-2ca554a9d6f2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=764&q=80",
+    title: "E-commerce franchise (FrontEnd)",
+    icon1: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/410px-Vitejs-logo.svg.png?20220412224743",
+    icon2: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png",
+    icon3: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+  },
+  {
+    background: "https://www.monitorteknologi.com/wp-content/uploads/2020/02/Apa-Itu-Coding-Dan-Bagaimana-Cara-Kerjanya.jpg",
+    title: "Personal Website",
+    icon1: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+    icon2: "https://www.ayoadesanya.com/_next/static/media/tailwind.01004e3d.png",
+    icon3: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+  }
+];
