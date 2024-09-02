@@ -546,10 +546,11 @@ const Home = () => {
       }}
     >
 
-      <div className="w-full px-2 text-center py-4 overflow-hidden rounded-b-lg backdrop-blur-sm bg-white/60 dark:bg-gray-800/60">
+      <div className="w-full px-2 text-center py-4 overflow-hidden rounded-b-lg backdrop-blur-lg bg-white/60 dark:bg-gray-800/60">
+      <a href={data.url}>
         <h2 className="mt-1 mb-1 text-md font-semibold text-gray-800 capitalize dark:text-white">
           {data.title}
-        </h2>
+        </h2></a>
 
         <div className="flex justify-center space-x-4 mb-2">
           <img
