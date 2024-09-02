@@ -262,15 +262,15 @@ const Home = () => {
               {teamMembers.map((member, index) => (
                 <div
                   key={index}
-                  className="bg-slate-100 flex flex-col items-center p-7 lg:w-48 lg:h-52 transition-colors duration-300 transform border cursor-pointer rounded-lg shadow-md hover:border-transparent group hover:bg-gray-600 dark:border-gray-700 dark:hover:border-transparent"
+                  className="bg-slate-100 flex flex-col items-center p-7 lg:w-48 lg:h-52 w-40 h-48 transition-colors duration-300 transform border cursor-pointer rounded-lg shadow-md hover:border-transparent group hover:bg-gray-600 dark:border-gray-700 dark:hover:border-transparent"
                 >
                   <img
-                    className="object-cover w-20 h-20"
+                    className="object-cover lg:w-20 lg:h-20 w-16 h-16"
                     src={member.image}
                     alt={member.name}
                   />
 
-                  <h1 className="mt-2 text-md font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">
+                  <h1 className="lg:mt-2 text-md font-semibold text-gray-700 capitalize dark:text-white group-hover:text-white">
                     {member.name}
                   </h1>
 
