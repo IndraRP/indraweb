@@ -4,7 +4,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-white sticky top-0 z-50 shadow-md">
+    <nav className="bg-white sticky top-0 z-50 shadow-sm">
       <div className="container px-4 py-4 mx-auto lg:px-16">
         <div className="flex items-center justify-between">
           <a href="#home-section" className="font-extrabold text-lg">
