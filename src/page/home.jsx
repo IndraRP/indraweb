@@ -62,7 +62,7 @@ const Home = () => {
             Hello, I'm
           </span>{" "}
           <br></br>
-          <TypeAnimation
+          <TypeAnimation className="text-gray-900"
             sequence={[
               " Indra",
               500,
@@ -164,12 +164,12 @@ const Home = () => {
             src={member.image}
             alt={member.name}
           />
-          <h1 className="mt-2 text-sm font-semibold text-gray-700 capitalize group-hover:text-white">
+          <h1 className="mt-2 text-sm font-semibold text-gray-900 capitalize group-hover:text-white">
             {member.name}
           </h1>
           <a
             href={member.url}
-            className="mt-1 text-center text-xs text-gray-500 capitalize hover:underline group-hover:text-gray-300"
+            className="mt-1 text-center text-xs text-gray-800 capitalize hover:underline group-hover:text-gray-300"
           >
             {member.desc}
           </a>
