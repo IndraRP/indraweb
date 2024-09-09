@@ -41,9 +41,9 @@ const Home = () => {
   };
 
   return (
-    <div className="">
+    <div className="bg-white">
 
-      <div className="lg:px-20 px-2">
+      <div className="lg:px-20 px-2 bg-white">
       <section id="home-section ">
   <div className="container px-6 py-6 mx-auto ">
     <div className="lg:-mx-6 lg:flex lg:items-center">
@@ -157,7 +157,7 @@ const Home = () => {
       {teamMembers.map((member, index) => (
         <div
           key={index}
-          className="bg-slate-100 flex flex-col items-center p-4 sm:p-5 rounded-lg shadow-md hover:bg-gray-600 transition-colors duration-300 transform cursor-pointer group"
+          className="bg-slate-300 flex flex-col items-center p-4 sm:p-5 rounded-lg shadow-md hover:bg-gray-600 transition-colors duration-300 transform cursor-pointer group"
         >
           <img
             className="object-cover w-16 h-16 sm:w-20 sm:h-20 lg:w-24 lg:h-24 xl:w-28 xl:h-28"

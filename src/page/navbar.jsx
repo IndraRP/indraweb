@@ -8,7 +8,7 @@ const Navbar = () => {
       <div className="container px-10 py-4 mx-auto lg:px-24">
         <div className="flex items-center justify-between">
           <a href="#home-section" className="font-extrabold text-lg">
-            <h1>Indra</h1>
+            <h1 className="text-gray-900">Indra</h1>
           </a>
           <div className="lg:hidden">
             <button
