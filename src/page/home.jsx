@@ -42,8 +42,8 @@ const Home = () => {
 
   return (
     <div className="bg-white">
-
       <div className="lg:px-20 px-2 bg-white">
+
       <section id="home-section ">
   <div className="container px-6 py-6 mx-auto ">
     <div className="lg:-mx-6 lg:flex lg:items-center">
@@ -142,6 +142,9 @@ const Home = () => {
 </section>
 
 
+
+
+
 <section id="skills-section" className="relative pb-10 pt-16">
   {/* Section Content */}
   <div className="container px-6 pb-10 mx-auto">
@@ -178,6 +181,10 @@ const Home = () => {
     </div>
   </div>
 </section>
+
+
+
+
 
 
 
