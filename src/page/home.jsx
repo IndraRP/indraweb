@@ -3,7 +3,7 @@ import { teamMembers } from "./data";
 
 import { TypeAnimation } from "react-type-animation";
 import Foto from "./image/fotoku1.jpg";
-import cvFile from "./image/CV Indra Ridho Rizkian Pratama.pdf";
+import cvFile from "./image/CV Indra Ridho.pdf";
 
 import { data } from './data';
 
