@@ -93,10 +93,10 @@ export const data = [
 {
     background: "https://images.unsplash.com/photo-1621111848501-8d3634f82336?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1565&q=80",
     title: "Storybook Component",
-    icon1: "https://static-00.iconduck.com/assets.00/nextjs-icon-512x512-y563b8iq.png",
+    icon1: "https://creazilla-store.fra1.digitaloceanspaces.com/icons/3254400/storybook-icon-icon-md.png",
     icon2: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png",
-    icon3: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
-    url:"https://github.com/IndraRP/StoryBook"
+    icon3: "https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png",
+    url:"https://indrarp.github.io/StoryBook/?path=/docs/atomic-button--docs"
   },
 
   {
@@ -108,11 +108,11 @@ export const data = [
     url:"https://github.com/IndraRP/FRIENDCHISE_TA"
   },
   {
-    background: "https://www.monitorteknologi.com/wp-content/uploads/2020/02/Apa-Itu-Coding-Dan-Bagaimana-Cara-Kerjanya.jpg",
+    background: "https://cdn.dribbble.com/users/463309/screenshots/9936700/folium-dribbble-4_4x.jpg",
     title: "Personal Website",
     icon1: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
     icon2: "https://www.ayoadesanya.com/_next/static/media/tailwind.01004e3d.png",
-    icon3: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    icon3: "https://vilmate.com/wp-content/uploads/2019/09/PWA_Circle_image@2x.png",
     url:"https://github.com/IndraRP/indraweb"
   },
   {
@@ -140,11 +140,27 @@ export const data = [
     url:"https://github.com/IndraRP/Fullstack-Laravel-First"
   },
   {
-    background: "https://storage.googleapis.com/ekrutassets/home/deploy/ekrut/releases/20200313171331/public/ckeditor_assets/pictures/2349/content_praktik_belajar_coding_-_EKRUT.jpg",
+    background: "https://i.pinimg.com/736x/57/7a/32/577a3214a09cb28aa9227006562c5d78.jpg",
     title: "Personal Website Mahes",
     icon1: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
     icon2: "https://www.ayoadesanya.com/_next/static/media/tailwind.01004e3d.png",
     icon3: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
-    url:""
+    url:"https://indrarp.github.io/mahesweb/"
+  },
+  {
+    background: "https://pt-htsi.com/wp-content/uploads/2022/11/PGAS_Skid_Package_Gbr_1.jpg",
+    title: "Personal Website Nur Ardiansah",
+    icon1: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+    icon2: "https://www.ayoadesanya.com/_next/static/media/tailwind.01004e3d.png",
+    icon3: "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+    url:"https://indrarp.github.io/NurArdiansah/"
+  },
+  {
+    background: "https://muffingroup.com/blog/wp-content/uploads/2021/07/becof.jpg",
+    title: "UKK (Wikusama Cafe) Fullstack, proses Kasir, Admin dan Manajer",
+    icon1: "https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png",
+    icon2: "https://www.ayoadesanya.com/_next/static/media/tailwind.01004e3d.png",
+    icon3: "https://cdn.iconscout.com/icon/free/png-256/free-node-js-logo-icon-download-in-svg-png-gif-file-formats--nodejs-programming-language-pack-logos-icons-1174925.png?f=webp&w=256",
+    url:"https://github.com/IndraRP/UKK-Caffe"
   }
 ];
